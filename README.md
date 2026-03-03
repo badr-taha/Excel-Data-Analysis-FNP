@@ -40,6 +40,6 @@
 - **الإيرادات**: مقارنة الأسعار مع المنافسين وتحديد المنتجات الأكثر ربحية.
 - **التسليم**: تحليل أسباب التأخير وتأثيرها على رضا العملاء.
 - **التخزين**: معالجة مشكلة التخزين الزائد في مواسم معينة مثل عيد الحب.
--Dashboard Interaction <a href = "
+-Dashboard Interaction <a href ="https://github.com/badr-taha/Excel-Data-Analysis-FNP/blob/main/FNP%20analysis.png"> View Dashboard</a>
 ---
 
